@@ -8,6 +8,8 @@ trigger:
 
 pool:
   vmImage: 'ubuntu-18.04'
+  
+container: ubuntu:18.04
 
 steps:
 - task: Maven@3
