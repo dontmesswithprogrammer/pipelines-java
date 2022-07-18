@@ -12,7 +12,7 @@ pool:
 
   demands:
 
-  - agent.name -equals intnoondaidoa01v
+  - agent.name -equals Weltgeist
 
   
 
