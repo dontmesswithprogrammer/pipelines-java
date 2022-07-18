@@ -8,9 +8,11 @@ trigger:
 
 pool:
 
-  name: Default
+  name: 'Default'
+
   demands:
-   - agent.name -equals Weltgeist
+  
+  - agent.name -equals intnoondaidoa01
 
   
 
